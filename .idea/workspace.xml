@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ed9e085-f642-44a4-9af6-09e26002eb12" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/2$scene0.coverage" NAME="scene0 Coverage Results" MODIFIED="1593748720519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scene" />
+    <SUITE FILE_PATH="coverage/2$capture.coverage" NAME="capture Coverage Results" MODIFIED="1593762148107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2$scene1.coverage" NAME="scene1 Coverage Results" MODIFIED="1593759872379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scene" />
+    <SUITE FILE_PATH="coverage/2$main.coverage" NAME="main Coverage Results" MODIFIED="1593877863814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2$scene2.coverage" NAME="scene2 Coverage Results" MODIFIED="1593792137746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scene" />
+    <SUITE FILE_PATH="coverage/2$player.coverage" NAME="player Coverage Results" MODIFIED="1593759960314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actor" />
+    <SUITE FILE_PATH="coverage/2$the_end_scene.coverage" NAME="the_end_scene Coverage Results" MODIFIED="1593788753515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scene" />
+    <SUITE FILE_PATH="coverage/2$showimagedemo.coverage" NAME="showimagedemo Coverage Results" MODIFIED="1593811158956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../软件项目开发与实践" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scene/scene2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2160">
+              <caret line="107" column="66" selection-start-line="107" selection-start-column="66" selection-end-line="107" selection-end-column="66" />
+              <folding>
+                <element signature="e#127#136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/actor/npc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="29" column="74" lean-forward="true" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="74" />
+              <folding>
+                <element signature="e#127#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="671">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="e#127#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scene/the_end_scene.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-81">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/actor/player.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="e#127#136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/actor/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="178" column="24" lean-forward="true" selection-start-line="178" selection-start-column="24" selection-end-line="178" selection-end-column="24" />
+              <folding>
+                <element signature="e#127#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/actor/monster1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+              <folding>
+                <element signature="e#128#141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/actor/monster2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="972">
+              <caret line="38" column="92" selection-start-line="38" selection-start-column="92" selection-end-line="38" selection-end-column="92" />
+              <folding>
+                <element signature="e#128#141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>import pygame</find>
+      <find>load</find>
+      <find>fade_scene</find>
+      <find>self.pl</find>
+      <find>Win</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/__init__.py" />
+        <option value="$PROJECT_DIR$/../软件项目开发与实践/showimagedemo.py" />
+        <option value="$PROJECT_DIR$/actor/Monster.py" />
+        <option value="$PROJECT_DIR$/actor/monster.py" />
+        <option value="$PROJECT_DIR$/scene/temple_scene.py" />
+        <option value="$PROJECT_DIR$/scene0.py" />
+        <option value="$PROJECT_DIR$/scene/fade_scene.py" />
+        <option value="$PROJECT_DIR$/actor/Npc.py" />
+        <option value="$PROJECT_DIR$/capture.py" />
+        <option value="$PROJECT_DIR$/scene/scene0.py" />
+        <option value="$PROJECT_DIR$/tiled_scene.py" />
+        <option value="$PROJECT_DIR$/dialog/dialog.py" />
+        <option value="$PROJECT_DIR$/actor/npc.py" />
+        <option value="$PROJECT_DIR$/actor/__init__.py" />
+        <option value="$PROJECT_DIR$/actor/items.py" />
+        <option value="$PROJECT_DIR$/actor/monster1.py" />
+        <option value="$PROJECT_DIR$/scene/scene1.py" />
+        <option value="$PROJECT_DIR$/actor/player.py" />
+        <option value="$PROJECT_DIR$/scene/scene2.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/actor/monster2.py" />
+        <option value="$PROJECT_DIR$/scene/the_end_scene.py" />
+        <option value="$PROJECT_DIR$/tiled_render.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="209" />
+    <option name="y" value="69" />
+    <option name="width" value="1155" />
+    <option name="height" value="1043" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="软件项目开发与实践2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="软件项目开发与实践2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="软件项目开发与实践2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="软件项目开发与实践2" type="462c0819:PsiDirectoryNode" />
+              <item name="actor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="软件项目开发与实践2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="软件项目开发与实践2" type="462c0819:PsiDirectoryNode" />
+              <item name="dialog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="软件项目开发与实践2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="软件项目开发与实践2" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="软件项目开发与实践2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="软件项目开发与实践2" type="462c0819:PsiDirectoryNode" />
+              <item name="scene" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Documents\Homework\软件项目开发与实践2\scene" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="capture" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="软件项目开发与实践2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="软件项目开发与实践2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scene2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="软件项目开发与实践2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scene" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scene/scene2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="showimagedemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="软件项目开发与实践2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../软件项目开发与实践" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../软件项目开发与实践/showimagedemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="the_end_scene" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="软件项目开发与实践2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scene" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scene/the_end_scene.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.showimagedemo" />
+        <item itemvalue="Python.scene2" />
+        <item itemvalue="Python.the_end_scene" />
+        <item itemvalue="Python.capture" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ed9e085-f642-44a4-9af6-09e26002eb12" name="Default Changelist" comment="" />
+      <created>1593742208825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593742208825</updated>
+      <workItem from="1593742213388" duration="27726000" />
+      <workItem from="1593794014187" duration="896000" />
+      <workItem from="1593810952283" duration="16210000" />
+      <workItem from="1593832444686" duration="2383000" />
+      <workItem from="1593835377746" duration="368000" />
+      <workItem from="1593835775666" duration="955000" />
+      <workItem from="1593837401886" duration="3892000" />
+      <workItem from="1593873005945" duration="3823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56253000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="209" y="69" width="1155" height="1043" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16164383" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36483517" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15085287" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pygame/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="303" column="14" selection-start-line="303" selection-start-column="10" selection-end-line="303" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scene/temple_scene.py" />
+    <entry file="file://$PROJECT_DIR$/scene/fade_scene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scene/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scene/scene0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+          <folding>
+            <element signature="e#127#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pytmx/util_pygame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../软件项目开发与实践/dialog/earth_god_dialog.py" />
+    <entry file="file://$PROJECT_DIR$/../软件项目开发与实践/showimagedemo.py" />
+    <entry file="file://$PROJECT_DIR$/../软件项目开发与实践/actor/elder.py" />
+    <entry file="file://$PROJECT_DIR$/dialog/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../软件项目开发与实践/actor/god.py" />
+    <entry file="file://$PROJECT_DIR$/../软件项目开发与实践/actor/swk.py" />
+    <entry file="file://$PROJECT_DIR$/../软件项目开发与实践/dialog/battle_dialog.py" />
+    <entry file="file://$PROJECT_DIR$/actor/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dialog/dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../软件项目开发与实践/scene/village_scene.py" />
+    <entry file="file://$PROJECT_DIR$/dialog/battle_dialog.py" />
+    <entry file="file://$PROJECT_DIR$/scene/village_scene.py" />
+    <entry file="file://$PROJECT_DIR$/scene/tiled_scene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiled_scene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiled_render.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+          <folding>
+            <element signature="e#127#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scene/scene1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2862">
+          <caret line="116" column="12" selection-start-line="116" selection-start-column="12" selection-end-line="117" selection-end-column="33" />
+          <folding>
+            <element signature="e#127#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/scene.scene0.Scene0">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>scene.scene0.Scene0</OriginalElement>
+          <nodes>
+            <node x="" y="">object</node>
+            <node x="" y="">scene.scene0.Scene0</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="76.0" y="411.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#F:/Documents/Homework/软件项目开发与实践/软件项目开发与实践2/main.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#F:/Documents/Homework/软件项目开发与实践/软件项目开发与实践2/main.py</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="461.0" y="431.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/scene.SceneResult">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>scene.SceneResult</OriginalElement>
+          <nodes>
+            <node x="" y="">enum.Enum</node>
+            <node x="" y="">object</node>
+            <node x="" y="">int</node>
+            <node x="" y="">enum.IntEnum</node>
+            <node x="" y="">enum.EnumMeta</node>
+            <node x="" y="">scene.SceneResult</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="116.0" y="135.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/scene.scene1.Scene1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>scene.scene1.Scene1</OriginalElement>
+          <nodes>
+            <node x="" y="">object</node>
+            <node x="" y="">scene.scene1.Scene1</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="76.0" y="55.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/F:/Documents/Homework/软件项目开发与实践/软件项目开发与实践2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="461.0" y="431.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://Python/#F:/Documents/Homework/软件项目开发与实践/软件项目开发与实践2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#F:/Documents/Homework/软件项目开发与实践/软件项目开发与实践2</OriginalElement>
+          <nodes>
+            <node x="" y="">scene.the_end_scene.TheEndScene</node>
+            <node x="" y="">actor.monster1.Monster</node>
+            <node x="" y="">actor.items.Sword0</node>
+            <node x="" y="">actor.DirAction</node>
+            <node x="" y="">scene.scene1.Scene1</node>
+            <node x="" y="">actor.items.Sword1</node>
+            <node x="" y="">scene.SceneResult</node>
+            <node x="" y="">tiled_scene.TileScene</node>
+            <node x="" y="">actor.items.Sword2</node>
+            <node x="" y="">actor.items.Sword3</node>
+            <node x="" y="">actor.npc.NPC</node>
+            <node x="" y="">enum.EnumMeta</node>
+            <node x="" y="">pygame.sprite.Sprite</node>
+            <node x="" y="">scene.fade_scene.SceneStatus</node>
+            <node x="" y="">scene.scene2.Scene2</node>
+            <node x="" y="">actor.monster2.Monster</node>
+            <node x="" y="">enum.Enum</node>
+            <node x="" y="">dialog.dialog.Dialog</node>
+            <node x="" y="">scene.fade_scene.FadeScene</node>
+            <node x="" y="">enum.IntEnum</node>
+            <node x="" y="">object</node>
+            <node x="" y="">int</node>
+            <node x="" y="">scene.tiled_scene.TileScene</node>
+            <node x="" y="">actor.items.Shield</node>
+            <node x="" y="">actor.player.Player</node>
+            <node x="" y="">scene.scene0.Scene0</node>
+            <node x="" y="">actor.items.Cloud</node>
+            <node x="" y="">tiled_render.TiledRenderer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.3412961567445366" x="1706.0" y="651.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#F:/Documents/Homework/软件项目开发与实践/软件项目开发与实践2/dialog">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#F:/Documents/Homework/软件项目开发与实践/软件项目开发与实践2/dialog</OriginalElement>
+          <nodes>
+            <node x="" y="">dialog.dialog.Dialog</node>
+            <node x="" y="">object</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="75.0" y="206.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#F:/Documents/Homework/软件项目开发与实践/软件项目开发与实践2/actor">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#F:/Documents/Homework/软件项目开发与实践/软件项目开发与实践2/actor</OriginalElement>
+          <nodes>
+            <node x="" y="">actor.monster2.Monster</node>
+            <node x="" y="">object</node>
+            <node x="" y="">actor.player.Player</node>
+            <node x="" y="">actor.items.Sword0</node>
+            <node x="" y="">actor.items.Shield</node>
+            <node x="" y="">actor.items.Sword1</node>
+            <node x="" y="">actor.monster1.Monster</node>
+            <node x="" y="">actor.items.Sword2</node>
+            <node x="" y="">actor.items.Sword3</node>
+            <node x="" y="">pygame.sprite.Sprite</node>
+            <node x="" y="">actor.items.Cloud</node>
+            <node x="" y="">actor.npc.NPC</node>
+            <node x="" y="">actor.DirAction</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.3629584352078239" x="1950.0" y="491.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actor/monster1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+          <folding>
+            <element signature="e#128#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actor/monster2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="38" column="92" selection-start-line="38" selection-start-column="92" selection-end-line="38" selection-end-column="92" />
+          <folding>
+            <element signature="e#128#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actor/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="178" column="24" lean-forward="true" selection-start-line="178" selection-start-column="24" selection-end-line="178" selection-end-column="24" />
+          <folding>
+            <element signature="e#127#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scene/scene2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="107" column="66" selection-start-line="107" selection-start-column="66" selection-end-line="107" selection-end-column="66" />
+          <folding>
+            <element signature="e#127#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actor/npc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="29" column="74" lean-forward="true" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="74" />
+          <folding>
+            <element signature="e#127#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scene/the_end_scene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actor/player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#127#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="e#127#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

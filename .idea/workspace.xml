@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ed9e085-f642-44a4-9af6-09e26002eb12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/dialog.py" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/dialog.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +15,7 @@
     <SUITE FILE_PATH="coverage/2$scene0.coverage" NAME="scene0 Coverage Results" MODIFIED="1593748720519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scene" />
     <SUITE FILE_PATH="coverage/2$capture.coverage" NAME="capture Coverage Results" MODIFIED="1593762148107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2$scene1.coverage" NAME="scene1 Coverage Results" MODIFIED="1593759872379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scene" />
-    <SUITE FILE_PATH="coverage/2$main.coverage" NAME="main Coverage Results" MODIFIED="1593914187116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2$main.coverage" NAME="main Coverage Results" MODIFIED="1593921084098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2$scene2.coverage" NAME="scene2 Coverage Results" MODIFIED="1593792137746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scene" />
     <SUITE FILE_PATH="coverage/2$player.coverage" NAME="player Coverage Results" MODIFIED="1593759960314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actor" />
     <SUITE FILE_PATH="coverage/2$the_end_scene.coverage" NAME="the_end_scene Coverage Results" MODIFIED="1593788753515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scene" />
@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scene/scene2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2646">
-              <caret line="107" column="66" selection-start-line="107" selection-start-column="66" selection-end-line="107" selection-end-column="66" />
+            <state relative-caret-position="232">
+              <caret line="96" column="69" selection-start-line="96" selection-start-column="69" selection-end-line="96" selection-end-column="69" />
               <folding>
                 <element signature="e#127#136#0" expanded="true" />
               </folding>
@@ -47,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="34" />
+            <state relative-caret-position="648">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#127#140#0" expanded="true" />
               </folding>
@@ -60,10 +60,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dialog/dialog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <folding>
+                <element signature="e#127#136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scene/the_end_scene.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="19" column="66" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="66" />
+            <state relative-caret-position="405">
+              <caret line="19" column="66" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -83,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/actor/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4752">
-              <caret line="178" column="24" selection-start-line="178" selection-start-column="24" selection-end-line="178" selection-end-column="24" />
+            <state relative-caret-position="4050">
+              <caret line="152" column="28" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="28" />
               <folding>
                 <element signature="e#127#140#0" expanded="true" />
               </folding>
@@ -132,6 +144,7 @@
       <find>fade_scene</find>
       <find>self.pl</find>
       <find>Win</find>
+      <find>npc</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -151,10 +164,8 @@
         <option value="$PROJECT_DIR$/capture.py" />
         <option value="$PROJECT_DIR$/scene/scene0.py" />
         <option value="$PROJECT_DIR$/tiled_scene.py" />
-        <option value="$PROJECT_DIR$/dialog/dialog.py" />
         <option value="$PROJECT_DIR$/actor/npc.py" />
         <option value="$PROJECT_DIR$/actor/__init__.py" />
-        <option value="$PROJECT_DIR$/actor/items.py" />
         <option value="$PROJECT_DIR$/actor/monster1.py" />
         <option value="$PROJECT_DIR$/scene/scene1.py" />
         <option value="$PROJECT_DIR$/actor/player.py" />
@@ -164,12 +175,14 @@
         <option value="$PROJECT_DIR$/scene/the_end_scene.py" />
         <option value="$PROJECT_DIR$/tiled_render.py" />
         <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/dialog/dialog.py" />
+        <option value="$PROJECT_DIR$/actor/items.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="209" />
-    <option name="y" value="69" />
+    <option name="x" value="554" />
+    <option name="y" value="68" />
     <option name="width" value="1155" />
     <option name="height" value="1043" />
   </component>
@@ -181,6 +194,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,12 +226,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -378,29 +391,43 @@
       <workItem from="1593835775666" duration="955000" />
       <workItem from="1593837401886" duration="3892000" />
       <workItem from="1593873005945" duration="3823000" />
-      <workItem from="1593913463797" duration="1182000" />
+      <workItem from="1593913463797" duration="1327000" />
+      <workItem from="1593917681838" duration="405000" />
+      <workItem from="1593918305783" duration="4000" />
+      <workItem from="1593919596771" duration="1535000" />
+      <workItem from="1593925837519" duration="1873000" />
+      <workItem from="1593927918095" duration="1589000" />
+      <workItem from="1593941779065" duration="48000" />
     </task>
+    <task id="LOCAL-00001" summary="RPG Game">
+      <created>1593914806314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593914806314</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57435000" />
+    <option name="totallyTimeSpent" value="63034000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-150" y="44" width="1155" height="1043" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09594883" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18082191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34407485" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34323433" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952183" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -437,6 +464,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RPG Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="RPG Game" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/__init__.py" />
@@ -506,16 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="25" column="26" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dialog/dialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -758,16 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scene/scene2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2646">
-          <caret line="107" column="66" selection-start-line="107" selection-start-column="66" selection-end-line="107" selection-end-column="66" />
-          <folding>
-            <element signature="e#127#136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/actor/npc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
@@ -775,6 +786,33 @@
           <folding>
             <element signature="e#127#140#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#127#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dialog/dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="e#127#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scene/the_end_scene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="19" column="66" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -790,8 +828,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/actor/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4752">
-          <caret line="178" column="24" selection-start-line="178" selection-start-column="24" selection-end-line="178" selection-end-column="24" />
+        <state relative-caret-position="4050">
+          <caret line="152" column="28" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="28" />
           <folding>
             <element signature="e#127#140#0" expanded="true" />
           </folding>
@@ -818,19 +856,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scene/the_end_scene.py">
+    <entry file="file://H:/嘤嘤嘤/showimage02/showimagedemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="19" column="66" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="66" />
+        <state relative-caret-position="162">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/scene/scene2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="34" />
+        <state relative-caret-position="232">
+          <caret line="96" column="69" selection-start-line="96" selection-start-column="69" selection-end-line="96" selection-end-column="69" />
           <folding>
-            <element signature="e#127#140#0" expanded="true" />
+            <element signature="e#127#136#0" expanded="true" />
           </folding>
         </state>
       </provider>
